@@ -31,16 +31,3 @@ Este repositório contém o layout base para o website [Nome do seu projeto]. El
 * **Use markdown:** O markdown é uma linguagem de marcação simples que facilita a formatação do texto no README.
 * **Inclua exemplos:** Se possível, inclua exemplos de código para ilustrar como usar o layout.
 * **Mantenha o README atualizado:** À medida que o projeto evolui, atualize o README para refletir as mudanças.
-
-**Recursos adicionais:**
-
-* **GitHub Docs about READMEs:** [https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes](   
-https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)   
-
-* **Standard README style:** [https://github.com/RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)
-
-**Com este README.txt, você estará fornecendo informações claras e concisas sobre o seu layout para outros desenvolvedores e para você mesmo no futuro.**
-
-**Gostaria de que eu crie um README.txt mais personalizado para o seu projeto? Basta me fornecer mais detalhes sobre ele.**
-
-**Precisa de ajuda com alguma parte específica do README.txt? Fique à vontade para perguntar!**
