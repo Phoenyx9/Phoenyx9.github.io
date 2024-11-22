@@ -1,5 +1,3 @@
-# godfors-crew
-
 # Layout do Website [godfors-crew]
 
 ## Descrição
